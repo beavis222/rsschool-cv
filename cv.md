@@ -1,17 +1,17 @@
 # Korolkov Greg
------
+
 ## Contacts
 
 * email: korolkovg@hotmail.com
 * discord: beavis_corn#6988
 * telegram: BeavisCorn
 * behance: [korolkovge175](https://www.behance.net/korolkovge175)
------
+
 ## Who I am
 
 
 Hello, everyone. I am a self-taught developer. I write sites on wordpress from design to backend. Enrolled in RS School to learn JS and systematize my knowledge of development.
------
+
 ## Skils
 * Figma
 * HTML/CSS
@@ -32,12 +32,12 @@ function isLeapYear(y) {
 
 if (isLeapYear(1969)) alert('Високосный год!');
 ```
------
+
 ## Education and experience
 
 
 My studies are based on the execution of real orders on freelance. I write: landing pages, news sites (WordPress), online stores (OpenCart).
------
+
 ## My English
 
 
