@@ -1,1 +1,1 @@
-# rsschool-cv
+https://beavis222.github.io/rsschool-cv/cv
